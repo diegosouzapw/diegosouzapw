@@ -7,7 +7,7 @@ built in public with a global community of contributors.
 
 <!-- Exact counters (no k-rounding). Auto-refreshed every 6h by
      .github/workflows/update-counters.yml — do not edit the numbers by hand. -->
-[![OmniRoute stars](https://img.shields.io/badge/stars-49615-2ea44f?style=flat-square&logo=github)](https://github.com/diegosouzapw/OmniRoute/stargazers)
+[![OmniRoute stars](https://img.shields.io/badge/stars-49616-2ea44f?style=flat-square&logo=github)](https://github.com/diegosouzapw/OmniRoute/stargazers)
 [![OmniRoute forks](https://img.shields.io/badge/forks-6752-8250df?style=flat-square&logo=github)](https://github.com/diegosouzapw/OmniRoute/forks)
 [![OmniRoute contributors](https://img.shields.io/badge/contributors-411-0969da?style=flat-square&logo=github)](https://github.com/diegosouzapw/OmniRoute/graphs/contributors)
 [![GitHub followers](https://img.shields.io/badge/followers-1298-24292f?style=flat-square&logo=github)](https://github.com/diegosouzapw?tab=followers)
