@@ -1,0 +1,53 @@
+name: Update exact counters
+
+# Keeps the exact (un-rounded) star/fork/contributor/follower numbers in the
+# profile README fresh. Shields' dynamic badges round to "49.5k"; these are
+# static badges whose values this job rewrites every 6 hours.
+
+on:
+  schedule:
+    - cron: "23 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch counts and rewrite README
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          STARS=$(gh api repos/diegosouzapw/OmniRoute --jq '.stargazers_count')
+          FORKS=$(gh api repos/diegosouzapw/OmniRoute --jq '.forks_count')
+          FOLLOWERS=$(gh api users/diegosouzapw --jq '.followers')
+          CONTRIB=$(gh api "repos/diegosouzapw/OmniRoute/contributors?per_page=1" -i \
+            | grep -o 'page=[0-9]*>; rel="last"' | grep -o '[0-9]*' | head -1)
+          # Fail closed: never write an empty/zero counter over a good one.
+          for v in "$STARS" "$FORKS" "$FOLLOWERS" "$CONTRIB"; do
+            case "$v" in ''|0) echo "suspicious counter value, aborting"; exit 1;; esac
+          done
+          sed -i \
+            -e "s|badge/stars-[0-9]*-|badge/stars-${STARS}-|" \
+            -e "s|badge/forks-[0-9]*-|badge/forks-${FORKS}-|" \
+            -e "s|badge/contributors-[0-9]*-|badge/contributors-${CONTRIB}-|" \
+            -e "s|badge/followers-[0-9]*-|badge/followers-${FOLLOWERS}-|" \
+            README.md
+
+      - name: Commit if changed
+        run: |
+          set -euo pipefail
+          if git diff --quiet README.md; then
+            echo "counters unchanged"
+            exit 0
+          fi
+          git config user.name "diegosouzapw"
+          git config user.email "diegosouza.pw@gmail.com"
+          git add README.md
+          git commit -m "docs: refresh exact counters"
+          git push

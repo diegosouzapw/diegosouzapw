@@ -5,9 +5,12 @@ I'm the creator and lead maintainer of
 [OmniRoute](https://github.com/diegosouzapw/OmniRoute), a free, MIT-licensed AI gateway
 built in public with a global community of contributors.
 
-[![OmniRoute stars](https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=flat-square&logo=github&label=stars)](https://github.com/diegosouzapw/OmniRoute/stargazers)
-[![OmniRoute forks](https://img.shields.io/github/forks/diegosouzapw/OmniRoute?style=flat-square&logo=github&label=forks)](https://github.com/diegosouzapw/OmniRoute/forks)
-[![OmniRoute contributors](https://img.shields.io/github/contributors/diegosouzapw/OmniRoute?style=flat-square&logo=github&label=contributors)](https://github.com/diegosouzapw/OmniRoute/graphs/contributors)
+<!-- Exact counters (no k-rounding). Auto-refreshed every 6h by
+     .github/workflows/update-counters.yml — do not edit the numbers by hand. -->
+[![OmniRoute stars](https://img.shields.io/badge/stars-49615-2ea44f?style=flat-square&logo=github)](https://github.com/diegosouzapw/OmniRoute/stargazers)
+[![OmniRoute forks](https://img.shields.io/badge/forks-6752-8250df?style=flat-square&logo=github)](https://github.com/diegosouzapw/OmniRoute/forks)
+[![OmniRoute contributors](https://img.shields.io/badge/contributors-411-0969da?style=flat-square&logo=github)](https://github.com/diegosouzapw/OmniRoute/graphs/contributors)
+[![GitHub followers](https://img.shields.io/badge/followers-1298-24292f?style=flat-square&logo=github)](https://github.com/diegosouzapw?tab=followers)
 [![MIT license](https://img.shields.io/github/license/diegosouzapw/OmniRoute?style=flat-square)](https://github.com/diegosouzapw/OmniRoute/blob/release/v3.8.50/LICENSE)
 
 ## 📌 Featured projects
