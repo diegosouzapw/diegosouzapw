@@ -12,46 +12,65 @@ built in public with a global community of contributors.
 
 ## 📌 Featured projects
 
-<!-- Mirror of the pinned repos, kept at the top of the profile on purpose:
-     GitHub always renders the profile README above the native Pinned section,
-     so this grid keeps the pins one click away without scrolling. Badges are
-     shields.io (live counts); no third-party card service involved. -->
+<!-- Mirror of the native Pinned cards, kept at the top on purpose: GitHub
+     always renders the profile README above the Pinned section. Same links
+     as the real pins: name/Public -> repo, star count -> /stargazers,
+     fork count -> /forks. Description in <sub> = slightly smaller font.
+     Live counts via shields.io (style=social = GitHub's own visual). -->
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/diegosouzapw/OmniRoute">OmniRoute</a></b><br/>
-      Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models. Works with Claude Code, Codex, Cursor and more.<br/>
-      <img src="https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=flat-square&logo=github&label=stars" alt="stars"/> <img src="https://img.shields.io/github/forks/diegosouzapw/OmniRoute?style=flat-square&label=forks" alt="forks"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" alt="TypeScript"/>
+      <b><a href="https://github.com/diegosouzapw/OmniRoute">OmniRoute</a></b>
+      <a href="https://github.com/diegosouzapw/OmniRoute"><img src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
+      <sub>Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode…</sub><br/>
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square" alt="TypeScript"/>
+      <a href="https://github.com/diegosouzapw/OmniRoute/stargazers"><img src="https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=social" alt="stars"/></a>
+      <a href="https://github.com/diegosouzapw/OmniRoute/forks"><img src="https://img.shields.io/github/forks/diegosouzapw/OmniRoute?style=social" alt="forks"/></a>
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/diegosouzapw/OmniCopilot">OmniCopilot</a></b><br/>
-      1200+ AI models in your GitHub Copilot Chat, free and forever free. VS Code extension powered by OmniRoute, with agent mode.<br/>
-      <img src="https://img.shields.io/github/stars/diegosouzapw/OmniCopilot?style=flat-square&logo=github&label=stars" alt="stars"/> <img src="https://img.shields.io/github/forks/diegosouzapw/OmniCopilot?style=flat-square&label=forks" alt="forks"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" alt="TypeScript"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/diegosouzapw/OmniGlyph">OmniGlyph</a></b><br/>
-      Cut your Claude bill 59–70% by rendering bulky LLM context as dense PNG pages, with exact per-provider billing math and measured benchmarks.<br/>
-      <img src="https://img.shields.io/github/stars/diegosouzapw/OmniGlyph?style=flat-square&logo=github&label=stars" alt="stars"/> <img src="https://img.shields.io/github/forks/diegosouzapw/OmniGlyph?style=flat-square&label=forks" alt="forks"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" alt="TypeScript"/>
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/diegosouzapw/OmniAntigravityRemoteChat">OmniAntigravityRemoteChat</a></b><br/>
-      📱 Control your Antigravity AI sessions from your phone: real-time chat mirroring, multi-window management, model switching via CDP.<br/>
-      <img src="https://img.shields.io/github/stars/diegosouzapw/OmniAntigravityRemoteChat?style=flat-square&logo=github&label=stars" alt="stars"/> <img src="https://img.shields.io/github/forks/diegosouzapw/OmniAntigravityRemoteChat?style=flat-square&label=forks" alt="forks"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square" alt="HTML"/>
+      <b><a href="https://github.com/diegosouzapw/OmniCopilot">OmniCopilot</a></b>
+      <a href="https://github.com/diegosouzapw/OmniCopilot"><img src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
+      <sub>1200+ AI models in your GitHub Copilot Chat — free & forever free. VS Code extension powered by OmniRoute: 340+ providers (90+ free) with agent mode…</sub><br/>
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square" alt="TypeScript"/>
+      <a href="https://github.com/diegosouzapw/OmniCopilot/stargazers"><img src="https://img.shields.io/github/stars/diegosouzapw/OmniCopilot?style=social" alt="stars"/></a>
+      <a href="https://github.com/diegosouzapw/OmniCopilot/forks"><img src="https://img.shields.io/github/forks/diegosouzapw/OmniCopilot?style=social" alt="forks"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/diegosouzapw/awesome-omni-skills">awesome-omni-skills</a></b><br/>
-      Public repository of AI coding skills, curated best-practice skills, and runtime surfaces for CLI, API, MCP, and A2A.<br/>
-      <img src="https://img.shields.io/github/stars/diegosouzapw/awesome-omni-skills?style=flat-square&logo=github&label=stars" alt="stars"/> <img src="https://img.shields.io/github/forks/diegosouzapw/awesome-omni-skills?style=flat-square&label=forks" alt="forks"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python"/>
+      <b><a href="https://github.com/diegosouzapw/OmniGlyph">OmniGlyph</a></b>
+      <a href="https://github.com/diegosouzapw/OmniGlyph"><img src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
+      <sub>Cut your Claude bill 59–70% by rendering bulky LLM context as dense PNG pages — 100% read accuracy, exact per-provider billing math, fail-closed gates, measured benchmarks…</sub><br/>
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square" alt="TypeScript"/>
+      <a href="https://github.com/diegosouzapw/OmniGlyph/stargazers"><img src="https://img.shields.io/github/stars/diegosouzapw/OmniGlyph?style=social" alt="stars"/></a>
+      <a href="https://github.com/diegosouzapw/OmniGlyph/forks"><img src="https://img.shields.io/github/forks/diegosouzapw/OmniGlyph?style=social" alt="forks"/></a>
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/diegosouzapw/ghostty-web">ghostty-web</a></b><br/>
-      Ghostty for the web with xterm.js API compatibility (fork of coder/ghostty-web).<br/>
-      <img src="https://img.shields.io/github/stars/diegosouzapw/ghostty-web?style=flat-square&logo=github&label=stars" alt="stars"/> <img src="https://img.shields.io/github/forks/diegosouzapw/ghostty-web?style=flat-square&label=forks" alt="forks"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square" alt="HTML"/>
+      <b><a href="https://github.com/diegosouzapw/OmniAntigravityRemoteChat">OmniAntigravityRemoteChat</a></b>
+      <a href="https://github.com/diegosouzapw/OmniAntigravityRemoteChat"><img src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
+      <sub>📱 Control your Antigravity AI sessions from your phone — real-time chat mirroring, multi-window management, and model switching via CDP</sub><br/>
+      <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square" alt="HTML"/>
+      <a href="https://github.com/diegosouzapw/OmniAntigravityRemoteChat/stargazers"><img src="https://img.shields.io/github/stars/diegosouzapw/OmniAntigravityRemoteChat?style=social" alt="stars"/></a>
+      <a href="https://github.com/diegosouzapw/OmniAntigravityRemoteChat/forks"><img src="https://img.shields.io/github/forks/diegosouzapw/OmniAntigravityRemoteChat?style=social" alt="forks"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/diegosouzapw/awesome-omni-skills">awesome-omni-skills</a></b>
+      <a href="https://github.com/diegosouzapw/awesome-omni-skills"><img src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
+      <sub>Public repository of AI coding skills, curated improved best-practice skills, and runtime surfaces for CLI, API, MCP, and A2A.</sub><br/>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square" alt="Python"/>
+      <a href="https://github.com/diegosouzapw/awesome-omni-skills/stargazers"><img src="https://img.shields.io/github/stars/diegosouzapw/awesome-omni-skills?style=social" alt="stars"/></a>
+      <a href="https://github.com/diegosouzapw/awesome-omni-skills/forks"><img src="https://img.shields.io/github/forks/diegosouzapw/awesome-omni-skills?style=social" alt="forks"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/diegosouzapw/ghostty-web">ghostty-web</a></b>
+      <a href="https://github.com/diegosouzapw/ghostty-web"><img src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
+      <sub>Ghostty for the web with xterm.js API compatibility — forked from coder/ghostty-web</sub><br/>
+      <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square" alt="HTML"/>
+      <a href="https://github.com/diegosouzapw/ghostty-web/stargazers"><img src="https://img.shields.io/github/stars/diegosouzapw/ghostty-web?style=social" alt="stars"/></a>
+      <a href="https://github.com/diegosouzapw/ghostty-web/forks"><img src="https://img.shields.io/github/forks/diegosouzapw/ghostty-web?style=social" alt="forks"/></a>
     </td>
   </tr>
 </table>
