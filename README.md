@@ -11,7 +11,7 @@ built in public with a global community of contributors.
 <a href="https://github.com/diegosouzapw/OmniRoute/forks"><img height="24" src="https://img.shields.io/badge/forks-6752-8250df?style=flat-square&logo=github" alt="OmniRoute forks"/></a>
 <a href="https://github.com/diegosouzapw/OmniRoute/graphs/contributors"><img height="24" src="https://img.shields.io/badge/contributors-411-0969da?style=flat-square&logo=github" alt="OmniRoute contributors"/></a>
 <a href="https://github.com/diegosouzapw?tab=followers"><img height="24" src="https://img.shields.io/badge/followers-1298-24292f?style=flat-square&logo=github" alt="GitHub followers"/></a>
-<img height="24" src="https://komarev.com/ghpvc/?username=diegosouzapw&style=flat-square&label=views&color=555" alt="profile views"/>
+<img height="24" src="https://komarev.com/ghpvc/?username=diegosouzapw&style=flat-square&label=views&color=555555" alt="profile views"/>
 <a href="https://github.com/diegosouzapw/OmniRoute/blob/release/v3.8.50/LICENSE"><img height="24" src="https://img.shields.io/github/license/diegosouzapw/OmniRoute?style=flat-square" alt="MIT license"/></a>
 
 ## 📌 Featured projects
