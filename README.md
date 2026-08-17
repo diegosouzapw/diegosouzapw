@@ -7,12 +7,12 @@ built in public with a global community of contributors.
 
 <!-- Exact counters (no k-rounding). Auto-refreshed every 6h by
      .github/workflows/update-counters.yml — do not edit the numbers by hand. -->
-<a href="https://github.com/diegosouzapw/OmniRoute/stargazers"><img height="18" src="https://img.shields.io/badge/stars-49616-2ea44f?style=flat-square&logo=github" alt="OmniRoute stars"/></a>
-<a href="https://github.com/diegosouzapw/OmniRoute/forks"><img height="18" src="https://img.shields.io/badge/forks-6752-8250df?style=flat-square&logo=github" alt="OmniRoute forks"/></a>
-<a href="https://github.com/diegosouzapw/OmniRoute/graphs/contributors"><img height="18" src="https://img.shields.io/badge/contributors-411-0969da?style=flat-square&logo=github" alt="OmniRoute contributors"/></a>
-<a href="https://github.com/diegosouzapw?tab=followers"><img height="18" src="https://img.shields.io/badge/followers-1298-24292f?style=flat-square&logo=github" alt="GitHub followers"/></a>
-<img height="18" src="https://komarev.com/ghpvc/?username=diegosouzapw&style=flat-square&label=profile%20views&color=555" alt="profile views"/>
-<a href="https://github.com/diegosouzapw/OmniRoute/blob/release/v3.8.50/LICENSE"><img height="18" src="https://img.shields.io/github/license/diegosouzapw/OmniRoute?style=flat-square" alt="MIT license"/></a>
+<a href="https://github.com/diegosouzapw/OmniRoute/stargazers"><img height="24" src="https://img.shields.io/badge/stars-49616-2ea44f?style=flat-square&logo=github" alt="OmniRoute stars"/></a>
+<a href="https://github.com/diegosouzapw/OmniRoute/forks"><img height="24" src="https://img.shields.io/badge/forks-6752-8250df?style=flat-square&logo=github" alt="OmniRoute forks"/></a>
+<a href="https://github.com/diegosouzapw/OmniRoute/graphs/contributors"><img height="24" src="https://img.shields.io/badge/contributors-411-0969da?style=flat-square&logo=github" alt="OmniRoute contributors"/></a>
+<a href="https://github.com/diegosouzapw?tab=followers"><img height="24" src="https://img.shields.io/badge/followers-1298-24292f?style=flat-square&logo=github" alt="GitHub followers"/></a>
+<img height="24" src="https://komarev.com/ghpvc/?username=diegosouzapw&style=flat-square&label=views&color=555" alt="profile views"/>
+<a href="https://github.com/diegosouzapw/OmniRoute/blob/release/v3.8.50/LICENSE"><img height="24" src="https://img.shields.io/github/license/diegosouzapw/OmniRoute?style=flat-square" alt="MIT license"/></a>
 
 ## 📌 Featured projects
 
@@ -26,73 +26,73 @@ built in public with a global community of contributors.
   <tr>
     <td width="50%" valign="top">
       <b><a href="https://github.com/diegosouzapw/OmniRoute">OmniRoute</a></b>
-      <a href="https://github.com/diegosouzapw/OmniRoute"><img src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
+      <a href="https://github.com/diegosouzapw/OmniRoute"><img height="18" src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
       <sub>Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode…</sub><br/>
-      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square" alt="TypeScript"/>
-      <a href="https://github.com/diegosouzapw/OmniRoute/stargazers"><img src="https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=social" alt="stars"/></a>
-      <a href="https://github.com/diegosouzapw/OmniRoute/forks"><img src="https://img.shields.io/github/forks/diegosouzapw/OmniRoute?style=social" alt="forks"/></a>
+      <img height="18" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square" alt="TypeScript"/>
+      <a href="https://github.com/diegosouzapw/OmniRoute/stargazers"><img height="18" src="https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=social" alt="stars"/></a>
+      <a href="https://github.com/diegosouzapw/OmniRoute/forks"><img height="18" src="https://img.shields.io/github/forks/diegosouzapw/OmniRoute?style=social" alt="forks"/></a>
     </td>
     <td width="50%" valign="top">
       <b><a href="https://github.com/diegosouzapw/OmniCopilot">OmniCopilot</a></b>
-      <a href="https://github.com/diegosouzapw/OmniCopilot"><img src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
+      <a href="https://github.com/diegosouzapw/OmniCopilot"><img height="18" src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
       <sub>1200+ AI models in your GitHub Copilot Chat — free & forever free. VS Code extension powered by OmniRoute: 340+ providers (90+ free) with agent mode…</sub><br/>
-      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square" alt="TypeScript"/>
-      <a href="https://github.com/diegosouzapw/OmniCopilot/stargazers"><img src="https://img.shields.io/github/stars/diegosouzapw/OmniCopilot?style=social" alt="stars"/></a>
-      <a href="https://github.com/diegosouzapw/OmniCopilot/forks"><img src="https://img.shields.io/github/forks/diegosouzapw/OmniCopilot?style=social" alt="forks"/></a>
+      <img height="18" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square" alt="TypeScript"/>
+      <a href="https://github.com/diegosouzapw/OmniCopilot/stargazers"><img height="18" src="https://img.shields.io/github/stars/diegosouzapw/OmniCopilot?style=social" alt="stars"/></a>
+      <a href="https://github.com/diegosouzapw/OmniCopilot/forks"><img height="18" src="https://img.shields.io/github/forks/diegosouzapw/OmniCopilot?style=social" alt="forks"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <b><a href="https://github.com/diegosouzapw/OmniGlyph">OmniGlyph</a></b>
-      <a href="https://github.com/diegosouzapw/OmniGlyph"><img src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
+      <a href="https://github.com/diegosouzapw/OmniGlyph"><img height="18" src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
       <sub>Cut your Claude bill 59–70% by rendering bulky LLM context as dense PNG pages — 100% read accuracy, exact per-provider billing math, fail-closed gates, measured benchmarks…</sub><br/>
-      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square" alt="TypeScript"/>
-      <a href="https://github.com/diegosouzapw/OmniGlyph/stargazers"><img src="https://img.shields.io/github/stars/diegosouzapw/OmniGlyph?style=social" alt="stars"/></a>
-      <a href="https://github.com/diegosouzapw/OmniGlyph/forks"><img src="https://img.shields.io/github/forks/diegosouzapw/OmniGlyph?style=social" alt="forks"/></a>
+      <img height="18" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square" alt="TypeScript"/>
+      <a href="https://github.com/diegosouzapw/OmniGlyph/stargazers"><img height="18" src="https://img.shields.io/github/stars/diegosouzapw/OmniGlyph?style=social" alt="stars"/></a>
+      <a href="https://github.com/diegosouzapw/OmniGlyph/forks"><img height="18" src="https://img.shields.io/github/forks/diegosouzapw/OmniGlyph?style=social" alt="forks"/></a>
     </td>
     <td width="50%" valign="top">
       <b><a href="https://github.com/diegosouzapw/OmniAntigravityRemoteChat">OmniAntigravityRemoteChat</a></b>
-      <a href="https://github.com/diegosouzapw/OmniAntigravityRemoteChat"><img src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
+      <a href="https://github.com/diegosouzapw/OmniAntigravityRemoteChat"><img height="18" src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
       <sub>📱 Control your Antigravity AI sessions from your phone — real-time chat mirroring, multi-window management, and model switching via CDP</sub><br/>
-      <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square" alt="HTML"/>
-      <a href="https://github.com/diegosouzapw/OmniAntigravityRemoteChat/stargazers"><img src="https://img.shields.io/github/stars/diegosouzapw/OmniAntigravityRemoteChat?style=social" alt="stars"/></a>
-      <a href="https://github.com/diegosouzapw/OmniAntigravityRemoteChat/forks"><img src="https://img.shields.io/github/forks/diegosouzapw/OmniAntigravityRemoteChat?style=social" alt="forks"/></a>
+      <img height="18" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square" alt="HTML"/>
+      <a href="https://github.com/diegosouzapw/OmniAntigravityRemoteChat/stargazers"><img height="18" src="https://img.shields.io/github/stars/diegosouzapw/OmniAntigravityRemoteChat?style=social" alt="stars"/></a>
+      <a href="https://github.com/diegosouzapw/OmniAntigravityRemoteChat/forks"><img height="18" src="https://img.shields.io/github/forks/diegosouzapw/OmniAntigravityRemoteChat?style=social" alt="forks"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <b><a href="https://github.com/diegosouzapw/awesome-omni-skills">awesome-omni-skills</a></b>
-      <a href="https://github.com/diegosouzapw/awesome-omni-skills"><img src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
+      <a href="https://github.com/diegosouzapw/awesome-omni-skills"><img height="18" src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
       <sub>Public repository of AI coding skills, curated improved best-practice skills, and runtime surfaces for CLI, API, MCP, and A2A.</sub><br/>
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square" alt="Python"/>
-      <a href="https://github.com/diegosouzapw/awesome-omni-skills/stargazers"><img src="https://img.shields.io/github/stars/diegosouzapw/awesome-omni-skills?style=social" alt="stars"/></a>
-      <a href="https://github.com/diegosouzapw/awesome-omni-skills/forks"><img src="https://img.shields.io/github/forks/diegosouzapw/awesome-omni-skills?style=social" alt="forks"/></a>
+      <img height="18" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square" alt="Python"/>
+      <a href="https://github.com/diegosouzapw/awesome-omni-skills/stargazers"><img height="18" src="https://img.shields.io/github/stars/diegosouzapw/awesome-omni-skills?style=social" alt="stars"/></a>
+      <a href="https://github.com/diegosouzapw/awesome-omni-skills/forks"><img height="18" src="https://img.shields.io/github/forks/diegosouzapw/awesome-omni-skills?style=social" alt="forks"/></a>
     </td>
     <td width="50%" valign="top">
       <b><a href="https://github.com/diegosouzapw/ghostty-web">ghostty-web</a></b>
-      <a href="https://github.com/diegosouzapw/ghostty-web"><img src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
+      <a href="https://github.com/diegosouzapw/ghostty-web"><img height="18" src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
       <sub>Ghostty for the web with xterm.js API compatibility — forked from coder/ghostty-web</sub><br/>
-      <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square" alt="HTML"/>
-      <a href="https://github.com/diegosouzapw/ghostty-web/stargazers"><img src="https://img.shields.io/github/stars/diegosouzapw/ghostty-web?style=social" alt="stars"/></a>
-      <a href="https://github.com/diegosouzapw/ghostty-web/forks"><img src="https://img.shields.io/github/forks/diegosouzapw/ghostty-web?style=social" alt="forks"/></a>
+      <img height="18" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square" alt="HTML"/>
+      <a href="https://github.com/diegosouzapw/ghostty-web/stargazers"><img height="18" src="https://img.shields.io/github/stars/diegosouzapw/ghostty-web?style=social" alt="stars"/></a>
+      <a href="https://github.com/diegosouzapw/ghostty-web/forks"><img height="18" src="https://img.shields.io/github/forks/diegosouzapw/ghostty-web?style=social" alt="forks"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <b><a href="https://github.com/diegosouzapw/CoreCoder">CoreCoder</a></b>
-      <a href="https://github.com/diegosouzapw/CoreCoder"><img src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
+      <a href="https://github.com/diegosouzapw/CoreCoder"><img height="18" src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
       <sub>Minimal AI coding agent (~1,000 lines of Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder.</sub><br/>
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square" alt="Python"/>
-      <a href="https://github.com/diegosouzapw/CoreCoder/stargazers"><img src="https://img.shields.io/github/stars/diegosouzapw/CoreCoder?style=social" alt="stars"/></a>
-      <a href="https://github.com/diegosouzapw/CoreCoder/forks"><img src="https://img.shields.io/github/forks/diegosouzapw/CoreCoder?style=social" alt="forks"/></a>
+      <img height="18" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square" alt="Python"/>
+      <a href="https://github.com/diegosouzapw/CoreCoder/stargazers"><img height="18" src="https://img.shields.io/github/stars/diegosouzapw/CoreCoder?style=social" alt="stars"/></a>
+      <a href="https://github.com/diegosouzapw/CoreCoder/forks"><img height="18" src="https://img.shields.io/github/forks/diegosouzapw/CoreCoder?style=social" alt="forks"/></a>
     </td>
     <td width="50%" valign="top">
       <b><a href="https://github.com/diegosouzapw/VTCode">VTCode</a></b>
-      <a href="https://github.com/diegosouzapw/VTCode"><img src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
+      <a href="https://github.com/diegosouzapw/VTCode"><img height="18" src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
       <sub>VT Code is a Rust coding agent with LLM-native code understanding, OS-native sandboxing, and multi-provider support.</sub><br/>
-      <img src="https://img.shields.io/badge/-Rust-DEA584?style=flat-square" alt="Rust"/>
-      <a href="https://github.com/diegosouzapw/VTCode/stargazers"><img src="https://img.shields.io/github/stars/diegosouzapw/VTCode?style=social" alt="stars"/></a>
-      <a href="https://github.com/diegosouzapw/VTCode/forks"><img src="https://img.shields.io/github/forks/diegosouzapw/VTCode?style=social" alt="forks"/></a>
+      <img height="18" src="https://img.shields.io/badge/-Rust-DEA584?style=flat-square" alt="Rust"/>
+      <a href="https://github.com/diegosouzapw/VTCode/stargazers"><img height="18" src="https://img.shields.io/github/stars/diegosouzapw/VTCode?style=social" alt="stars"/></a>
+      <a href="https://github.com/diegosouzapw/VTCode/forks"><img height="18" src="https://img.shields.io/github/forks/diegosouzapw/VTCode?style=social" alt="forks"/></a>
     </td>
   </tr>
 </table>
