@@ -7,11 +7,12 @@ built in public with a global community of contributors.
 
 <!-- Exact counters (no k-rounding). Auto-refreshed every 6h by
      .github/workflows/update-counters.yml — do not edit the numbers by hand. -->
-[![OmniRoute stars](https://img.shields.io/badge/stars-49616-2ea44f?style=flat-square&logo=github)](https://github.com/diegosouzapw/OmniRoute/stargazers)
-[![OmniRoute forks](https://img.shields.io/badge/forks-6752-8250df?style=flat-square&logo=github)](https://github.com/diegosouzapw/OmniRoute/forks)
-[![OmniRoute contributors](https://img.shields.io/badge/contributors-411-0969da?style=flat-square&logo=github)](https://github.com/diegosouzapw/OmniRoute/graphs/contributors)
-[![GitHub followers](https://img.shields.io/badge/followers-1298-24292f?style=flat-square&logo=github)](https://github.com/diegosouzapw?tab=followers)
-[![MIT license](https://img.shields.io/github/license/diegosouzapw/OmniRoute?style=flat-square)](https://github.com/diegosouzapw/OmniRoute/blob/release/v3.8.50/LICENSE)
+<a href="https://github.com/diegosouzapw/OmniRoute/stargazers"><img height="18" src="https://img.shields.io/badge/stars-49616-2ea44f?style=flat-square&logo=github" alt="OmniRoute stars"/></a>
+<a href="https://github.com/diegosouzapw/OmniRoute/forks"><img height="18" src="https://img.shields.io/badge/forks-6752-8250df?style=flat-square&logo=github" alt="OmniRoute forks"/></a>
+<a href="https://github.com/diegosouzapw/OmniRoute/graphs/contributors"><img height="18" src="https://img.shields.io/badge/contributors-411-0969da?style=flat-square&logo=github" alt="OmniRoute contributors"/></a>
+<a href="https://github.com/diegosouzapw?tab=followers"><img height="18" src="https://img.shields.io/badge/followers-1298-24292f?style=flat-square&logo=github" alt="GitHub followers"/></a>
+<img height="18" src="https://komarev.com/ghpvc/?username=diegosouzapw&style=flat-square&label=profile%20views&color=555" alt="profile views"/>
+<a href="https://github.com/diegosouzapw/OmniRoute/blob/release/v3.8.50/LICENSE"><img height="18" src="https://img.shields.io/github/license/diegosouzapw/OmniRoute?style=flat-square" alt="MIT license"/></a>
 
 ## 📌 Featured projects
 
@@ -74,6 +75,24 @@ built in public with a global community of contributors.
       <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square" alt="HTML"/>
       <a href="https://github.com/diegosouzapw/ghostty-web/stargazers"><img src="https://img.shields.io/github/stars/diegosouzapw/ghostty-web?style=social" alt="stars"/></a>
       <a href="https://github.com/diegosouzapw/ghostty-web/forks"><img src="https://img.shields.io/github/forks/diegosouzapw/ghostty-web?style=social" alt="forks"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/diegosouzapw/CoreCoder">CoreCoder</a></b>
+      <a href="https://github.com/diegosouzapw/CoreCoder"><img src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
+      <sub>Minimal AI coding agent (~1,000 lines of Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder.</sub><br/>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square" alt="Python"/>
+      <a href="https://github.com/diegosouzapw/CoreCoder/stargazers"><img src="https://img.shields.io/github/stars/diegosouzapw/CoreCoder?style=social" alt="stars"/></a>
+      <a href="https://github.com/diegosouzapw/CoreCoder/forks"><img src="https://img.shields.io/github/forks/diegosouzapw/CoreCoder?style=social" alt="forks"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/diegosouzapw/VTCode">VTCode</a></b>
+      <a href="https://github.com/diegosouzapw/VTCode"><img src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
+      <sub>VT Code is a Rust coding agent with LLM-native code understanding, OS-native sandboxing, and multi-provider support.</sub><br/>
+      <img src="https://img.shields.io/badge/-Rust-DEA584?style=flat-square" alt="Rust"/>
+      <a href="https://github.com/diegosouzapw/VTCode/stargazers"><img src="https://img.shields.io/github/stars/diegosouzapw/VTCode?style=social" alt="stars"/></a>
+      <a href="https://github.com/diegosouzapw/VTCode/forks"><img src="https://img.shields.io/github/forks/diegosouzapw/VTCode?style=social" alt="forks"/></a>
     </td>
   </tr>
 </table>
