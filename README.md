@@ -14,6 +14,9 @@ built in public with a global community of contributors.
 <img height="24" src="https://komarev.com/ghpvc/?username=diegosouzapw&style=flat-square&label=views&color=555555" alt="profile views"/>
 <a href="https://github.com/diegosouzapw/OmniRoute/blob/release/v3.8.50/LICENSE"><img height="24" src="https://img.shields.io/github/license/diegosouzapw/OmniRoute?style=flat-square" alt="MIT license"/></a>
 
+Counters refresh every six hours. The contributor badge counts GitHub-linked accounts,
+including bots; it excludes anonymous author records. [Dated impact and counting notes](COMMUNITY.md).
+
 ## 📌 Featured projects
 
 <!-- Mirror of the native Pinned cards, kept at the top on purpose: GitHub
@@ -27,7 +30,7 @@ built in public with a global community of contributors.
     <td width="50%" valign="top">
       <b><a href="https://github.com/diegosouzapw/OmniRoute">OmniRoute</a></b>
       <a href="https://github.com/diegosouzapw/OmniRoute"><img height="18" src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
-      <sub>Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode…</sub><br/>
+      <sub>Free, MIT-licensed AI gateway. One endpoint for hundreds of providers, with quota-aware routing, fallback, and open protocols. Built in public with a global contributor community.</sub><br/>
       <img height="18" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square" alt="TypeScript"/>
       <a href="https://github.com/diegosouzapw/OmniRoute/stargazers"><img height="18" src="https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=social" alt="stars"/></a>
       <a href="https://github.com/diegosouzapw/OmniRoute/forks"><img height="18" src="https://img.shields.io/github/forks/diegosouzapw/OmniRoute?style=social" alt="forks"/></a>
@@ -35,7 +38,7 @@ built in public with a global community of contributors.
     <td width="50%" valign="top">
       <b><a href="https://github.com/diegosouzapw/OmniCopilot">OmniCopilot</a></b>
       <a href="https://github.com/diegosouzapw/OmniCopilot"><img height="18" src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
-      <sub>1200+ AI models in your GitHub Copilot Chat — free & forever free. VS Code extension powered by OmniRoute: 340+ providers (90+ free) with agent mode…</sub><br/>
+      <sub>Open-source VS Code extension connecting GitHub Copilot Chat to models available through OmniRoute. Model access and costs depend on your configured providers.</sub><br/>
       <img height="18" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square" alt="TypeScript"/>
       <a href="https://github.com/diegosouzapw/OmniCopilot/stargazers"><img height="18" src="https://img.shields.io/github/stars/diegosouzapw/OmniCopilot?style=social" alt="stars"/></a>
       <a href="https://github.com/diegosouzapw/OmniCopilot/forks"><img height="18" src="https://img.shields.io/github/forks/diegosouzapw/OmniCopilot?style=social" alt="forks"/></a>
@@ -104,7 +107,8 @@ focuses on resilient routing, transparent fallback, token efficiency, open proto
 making powerful AI tooling more accessible without hiding operational trade-offs.
 
 Since February 2026, it has grown into a project shaped by hundreds of contributors, with
-documentation and community surfaces available across 43 languages.
+multilingual documentation and interface localization. Translation coverage varies by resource;
+the current project documentation records what is available.
 
 My current open-source work includes:
 
@@ -115,6 +119,9 @@ My current open-source work includes:
 - Documentation, support, and contribution paths for a global developer community.
 
 ## Start here
+
+The architecture, routing, resilience, and contribution links below point to the published
+v3.8.50 release. The repository's default branch also contains work for the next release.
 
 | Resource | What you'll find |
 | --- | --- |
@@ -131,6 +138,15 @@ I maintain in public, publish the reasoning behind technical decisions, answer q
 and work with contributors to turn real-world feedback into documented, tested improvements.
 If OmniRoute is useful to you, contributions and thoughtful criticism are both welcome.
 
+Recent examples of that work:
+
+- [Working through a user's routing observations](https://github.com/diegosouzapw/OmniRoute/discussions/14270): agreeing on focused issues, regression tests, and contributor ownership.
+- [Restoring credit lost during merges](https://github.com/diegosouzapw/OmniRoute/pull/14362): recording the original contributors in project history and release notes.
+- [Helping a user understand provider controls](https://github.com/diegosouzapw/OmniRoute/discussions/14158): a public answer others can reuse.
+
+[Community work and dated impact](COMMUNITY.md) ·
+[A practical guide to turning feedback into contributions](notes/turning-feedback-into-contributions.md)
+
 Também falo português 🇧🇷
 
 ## Connect
@@ -138,3 +154,4 @@ Também falo português 🇧🇷
 - [LinkedIn](https://www.linkedin.com/in/diegosouzapw)
 - [OmniRoute website](https://omniroute.online)
 - [CDWA Solutions](https://www.cdwasolutions.com.br)
+- [Support my open-source maintenance](https://github.com/sponsors/diegosouzapw)
