@@ -7,8 +7,8 @@ built in public with a global community of contributors.
 
 <!-- Exact counters (no k-rounding). Auto-refreshed every 6h by
      .github/workflows/update-counters.yml — do not edit the numbers by hand. -->
-<a href="https://github.com/diegosouzapw/OmniRoute/stargazers"><img height="24" src="https://img.shields.io/badge/stars-68911-2ea44f?style=flat-square&logo=github" alt="OmniRoute stars"/></a>
-<a href="https://github.com/diegosouzapw/OmniRoute/forks"><img height="24" src="https://img.shields.io/badge/forks-9761-8250df?style=flat-square&logo=github" alt="OmniRoute forks"/></a>
+<a href="https://github.com/diegosouzapw/OmniRoute/stargazers"><img height="24" src="https://img.shields.io/badge/stars-68933-2ea44f?style=flat-square&logo=github" alt="OmniRoute stars"/></a>
+<a href="https://github.com/diegosouzapw/OmniRoute/forks"><img height="24" src="https://img.shields.io/badge/forks-9764-8250df?style=flat-square&logo=github" alt="OmniRoute forks"/></a>
 <a href="https://github.com/diegosouzapw/OmniRoute/graphs/contributors"><img height="24" src="https://img.shields.io/badge/contributors-432-0969da?style=flat-square&logo=github" alt="OmniRoute contributors"/></a>
 <a href="https://github.com/diegosouzapw?tab=followers"><img height="24" src="https://img.shields.io/badge/followers-2229-24292f?style=flat-square&logo=github" alt="GitHub followers"/></a>
 <img height="24" src="https://komarev.com/ghpvc/?username=diegosouzapw&style=flat-square&label=views&color=555555" alt="profile views"/>
