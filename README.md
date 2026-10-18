@@ -12,7 +12,7 @@ built in public with a global community of contributors.
 <a href="https://github.com/diegosouzapw/OmniRoute/graphs/contributors"><img height="24" src="https://img.shields.io/badge/contributors-431-0969da?style=flat-square&logo=github" alt="OmniRoute contributors"/></a>
 <a href="https://github.com/diegosouzapw?tab=followers"><img height="24" src="https://img.shields.io/badge/followers-2691-24292f?style=flat-square&logo=github" alt="GitHub followers"/></a>
 <img height="24" src="https://komarev.com/ghpvc/?username=diegosouzapw&style=flat-square&label=views&color=555555" alt="profile views"/>
-<a href="https://github.com/diegosouzapw/OmniRoute/blob/release/v3.8.50/LICENSE"><img height="24" src="https://img.shields.io/github/license/diegosouzapw/OmniRoute?style=flat-square" alt="MIT license"/></a>
+<a href="https://github.com/diegosouzapw/OmniRoute/blob/v3.8.51/LICENSE"><img height="24" src="https://img.shields.io/github/license/diegosouzapw/OmniRoute?style=flat-square" alt="MIT license"/></a>
 
 Counters refresh every six hours. The contributor badge counts GitHub-linked accounts,
 including bots; it excludes anonymous author records. [Dated impact and counting notes](COMMUNITY.md).
@@ -121,15 +121,15 @@ My current open-source work includes:
 ## Start here
 
 The architecture, routing, resilience, and contribution links below point to the published
-v3.8.50 release. The repository's default branch also contains work for the next release.
+v3.8.51 release. The repository's default branch also contains work for the next release.
 
 | Resource | What you'll find |
 | --- | --- |
 | [OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Source, installation, roadmap, and current project status |
-| [Architecture](https://github.com/diegosouzapw/OmniRoute/blob/release/v3.8.50/docs/architecture/ARCHITECTURE.md) | Request pipeline and system design |
-| [Routing](https://github.com/diegosouzapw/OmniRoute/blob/release/v3.8.50/docs/routing/AUTO-COMBO.md) | Multi-provider selection and Auto-Combo methodology |
-| [Resilience](https://github.com/diegosouzapw/OmniRoute/blob/release/v3.8.50/docs/architecture/RESILIENCE_GUIDE.md) | Provider breakers, connection cooldowns, and model lockouts |
-| [Contributing](https://github.com/diegosouzapw/OmniRoute/blob/release/v3.8.50/CONTRIBUTING.md) | How to propose, test, and submit a contribution |
+| [Architecture](https://github.com/diegosouzapw/OmniRoute/blob/v3.8.51/docs/architecture/ARCHITECTURE.md) | Request pipeline and system design |
+| [Routing](https://github.com/diegosouzapw/OmniRoute/blob/v3.8.51/docs/routing/AUTO-COMBO.md) | Multi-provider selection and Auto-Combo methodology |
+| [Resilience](https://github.com/diegosouzapw/OmniRoute/blob/v3.8.51/docs/architecture/RESILIENCE_GUIDE.md) | Provider breakers, connection cooldowns, and model lockouts |
+| [Contributing](https://github.com/diegosouzapw/OmniRoute/blob/v3.8.51/CONTRIBUTING.md) | How to propose, test, and submit a contribution |
 | [Discussions](https://github.com/diegosouzapw/OmniRoute/discussions) | Questions, ideas, feedback, and community support |
 
 ## Community
@@ -140,6 +140,7 @@ If OmniRoute is useful to you, contributions and thoughtful criticism are both w
 
 Recent examples of that work:
 
+- [Reviewing and rechecking a contributor's shutdown fixes](https://github.com/diegosouzapw/OmniRoute/pull/16033): reproducible feedback, corrections by the original author, and a clear distinction between focused validation and broader CI.
 - [Working through a user's routing observations](https://github.com/diegosouzapw/OmniRoute/discussions/14270): agreeing on focused issues, regression tests, and contributor ownership.
 - [Restoring credit lost during merges](https://github.com/diegosouzapw/OmniRoute/pull/14362): recording the original contributors in project history and release notes.
 - [Helping a user understand provider controls](https://github.com/diegosouzapw/OmniRoute/discussions/14158): a public answer others can reuse.

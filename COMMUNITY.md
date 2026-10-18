@@ -6,18 +6,19 @@ infrastructure and help people use, improve, and contribute to it.
 
 ## A dated snapshot
 
-Measured through GitHub's APIs on **September 21, 2026**. These are repository and
+Measured through GitHub's APIs on **October 18, 2026, at 14:06 UTC**. These are repository and
 account counters, not a count of active users or a measure of software quality.
 The profile's automatic badges provide more recent figures between updates to this page.
 
 | Measure | Snapshot |
 | --- | ---: |
-| OmniRoute stars | 68,910 |
-| Forks | 9,761 |
-| Followers of my GitHub account | 2,229 |
-| Merged pull requests in the repository | 7,311 |
-| Discussions | 490 |
-| Published releases | 280 |
+| OmniRoute stars | 77,956 |
+| Forks | 11,306 |
+| Followers of my GitHub account | 2,693 |
+| Watchers subscribed to the repository | 455 |
+| Merged pull requests in the repository | 9,183 |
+| Discussions | 544 |
+| Published releases | 281 |
 
 Sources: [repository](https://github.com/diegosouzapw/OmniRoute),
 [profile](https://github.com/diegosouzapw),
@@ -27,14 +28,27 @@ Sources: [repository](https://github.com/diegosouzapw/OmniRoute),
 Merged pull requests include maintainer and automated work.
 
 The project is built with hundreds of contributors. A paginated API query including
-anonymous authors returned 670 records: 430 user accounts, 2 bots, and 238 anonymous
-author records. This is **not** 670 verified unique people. The
+anonymous authors returned 846 records: 429 user accounts, 2 bots, and 415 anonymous
+author records. This is **not** 846 verified unique people. The
 [GitHub API documentation](https://docs.github.com/en/rest/repos/repos#list-repository-contributors)
 explains author-email grouping, caching, and limits on linking author addresses to accounts.
-The profile badge uses the 432 GitHub-linked accounts, including the 2 bots.
+The profile badge counts GitHub-linked accounts, including bots: the same-day query without
+anonymous authors returned 431 accounts, including 2 bots. GitHub links only the first 500
+author email addresses to accounts for this endpoint, so this account counter can change
+independently of the number of people contributing. It should not be used as a complete
+community headcount or a reliable measure of community growth.
 
 ## Examples of maintenance and collaboration
 
+- **Review that leaves the contributor in control.** In October,
+  [PR #16033](https://github.com/diegosouzapw/OmniRoute/pull/16033) by HouMinXi
+  went through a review of shutdown behavior. My
+  [review](https://github.com/diegosouzapw/OmniRoute/pull/16033#pullrequestreview-5470239224)
+  explained two reproducible gaps and separated Linux boundary tests from actual macOS
+  validation. HouMinXi supplied the corrections, and my
+  [follow-up](https://github.com/diegosouzapw/OmniRoute/pull/16033#pullrequestreview-5472091239)
+  verified the focused fixes while keeping broader CI status distinct. The changes stayed
+  in the contributor's pull request and were merged on October 16.
 - **Technical feedback into contributions.** In
   [Discussion #14270](https://github.com/diegosouzapw/OmniRoute/discussions/14270),
   shannonlowder brought detailed observations about quota scoring. My replies work through
@@ -55,7 +69,7 @@ interaction has been audited. Credit belongs to the people who contributed the w
 ## Learning and contributing
 
 Start with the project's
-[contribution guide](https://github.com/diegosouzapw/OmniRoute/blob/release/v3.8.50/CONTRIBUTING.md)
+[contribution guide](https://github.com/diegosouzapw/OmniRoute/blob/v3.8.51/CONTRIBUTING.md)
 and [public Discussions](https://github.com/diegosouzapw/OmniRoute/discussions).
 I also wrote a short [guide to turning feedback into a contribution](notes/turning-feedback-into-contributions.md)
 based on the public examples above.
